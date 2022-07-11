@@ -15,7 +15,7 @@
 
 **2016-2018 :** CPGE MPSI-MP au lycée Joffre, option informatique.
 
-**2015-2016 :** Terminale S science de l'ingénieur, spécialité mathématiques, option cinéma & audiovisuel.
+**2015-2016 :** Terminale S Science de l'ingénieur au lycée Pablo Picasso à Perpignan, spécialité mathématiques, option cinéma & audiovisuel.
 
 # Stages
 

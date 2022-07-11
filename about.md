@@ -29,3 +29,9 @@
 
 **2019 :** Stage de recherche "Sur la simplicité de certains groupes classiques".
 <br>_Effectué en plus de mes études à l'Institu Fourier, sous la direction de Grégory Behruy._
+
+# Enseignements
+
+**2021 :** Tutorat en algèbre en L3 mathématiques à l'Institut Fourier.
+
+**2019-2020 :** Tutorat en mathématiques en L1 au DLST de Grenoble.

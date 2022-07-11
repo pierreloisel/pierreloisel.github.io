@@ -1,7 +1,3 @@
-### Salut !
+### Vous trouverez sur cette page les différents liens afin de naviguer sur mon site.
 
-## Je me présente
-
-# Je m'appelle
-
-_Salut_
+<a href="https://pierreloisel.github.io/about"> Qui suis-je </a>

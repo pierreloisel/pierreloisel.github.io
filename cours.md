@@ -1,1 +1,3 @@
-# Vous trouverez ici les différents documents en rapport avec mes enseignements.
+# Autre
+
+Document sur le groupe diédral à vocation des étudiant.e.s de L3 (lien).

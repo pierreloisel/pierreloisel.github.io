@@ -1,6 +1,6 @@
 # Études
 
-**2022-2023 :** Master algèbre appliquée à l'université de Versailles.
+**2022-2023 :** Master d'algèbre appliquée à l'université de Versailles.
 
 **2021-2022 :** M2 préparation à l'agrégation externe de mathématiques à l'Institut Fourier, classé 96ème, au sein du magistère de Grenoble.
 

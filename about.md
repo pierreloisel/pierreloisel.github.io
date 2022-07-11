@@ -21,7 +21,7 @@
 
 **2021 :** Stage de recherche de trois mois en géométrie algébrique "Droites triples des hypersurfaces cubiques de \\( \mathbb{P}^4( \mathbb{C} ) \\) et courbes de Murre".
 <br>_Effectué au LMA de Poitiers, sous la direction de Samuel Boissière et de Grâce Bockondas._
-<br>_Manuscrit disponible <a href="https://pierreloisel.github.io/folder_pdf/Stage_LMA_2021.pdf" target="_blank">en cliquant ici</a>._
+<br>_Manuscrit disponible <a href="https://pierreloisel.github.io/folder_pdf/stage_LMA_2021.pdf" target="_blank">en cliquant ici</a>._
 
 **2021 :** Mémoire de master "Courbes elliptiques: entre algèbre, géométrie et analyse".
 <br>_Effectué dans le cadre de mon M1 à l'Institut Fourier, sous la direction de Catriona MacLean._

@@ -20,10 +20,10 @@
 # Stages
 
 **2021 :** Stage de recherche de trois mois en géométrie algébrique "Droites triples des hypersurfaces cubiques de \\( \mathbb{P}^4( \mathbb{C} ) \\) et courbes de Murre".
-<br>_Effectué au LMA de Poitiers sous la direction de Samuel Boissière et de Grâce Bockondas._
+<br>_Effectué au LMA de Poitiers, sous la direction de Samuel Boissière et de Grâce Bockondas._
 
 **2021 :** Mémoire de master "Courbes elliptiques: entre algèbre, géométrie et analyse".
-<br>_Effectué dans le cadre de mes études à l'Institut Fourier sous la direction de Catriona MacLean._
+<br>_Effectué dans le cadre de mon M1 à l'Institut Fourier, sous la direction de Catriona MacLean._
 
 **2019 :** Stage de recherche "Sur la simplicité de certains groupes classiques".
-<br>_Effectué en plus de mes études à l'Institu Fourier sous la direction de Grégory Behruy._
+<br>_Effectué en plus de mes études à l'Institu Fourier, sous la direction de Grégory Behruy._

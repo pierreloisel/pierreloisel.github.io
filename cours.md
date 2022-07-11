@@ -1,3 +1,1 @@
-layou: page
-title: "Cours"
-permalink: /cours/
+# Vous trouverez ici les différents documents en rapport avec mes enseignements.

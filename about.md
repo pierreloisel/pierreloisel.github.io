@@ -19,7 +19,8 @@
 
 # Stages
 
-**2021 :** Stage de recherche de trois mois en géométrie algébrique "Droites triples des hypersurfaces cubiques de $\mathbb{P}^4(\mathbb{C})$ et courbes de Murre".
+**2021 :** Stage de recherche de trois mois en géométrie algébrique "Droites triples des hypersurfaces cubiques de \\[\LaTeX code\\] (also for display)
+\\(\LaTeX code\\) et courbes de Murre".
 _Effectué au LMA de Poitiers sous la direction de Samuel Boissière et de Grâce Bockondas._
 
 **2021 :** Mémoire de master "Courbes elliptiques: entre algèbre, géométrie et analyse".

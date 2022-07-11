@@ -25,7 +25,7 @@
 
 **2021 :** Mémoire de master "Courbes elliptiques: entre algèbre, géométrie et analyse".
 <br>_Effectué dans le cadre de mon M1 à l'Institut Fourier, sous la direction de Catriona MacLean._
-<br>_Manuscrit disponible <a href="https://pierreloisel.github.io/folder_pdf/memoire_master_2021.pdf" target="_blank">en cliquant ici</a>.
+<br>_Manuscrit disponible <a href="https://pierreloisel.github.io/folder_pdf/memoire_master_2021.pdf" target="_blank">en cliquant ici</a>._
 
 **2019 :** Stage de recherche "Sur la simplicité de certains groupes classiques".
 <br>_Effectué en plus de mes études à l'Institu Fourier, sous la direction de Grégory Behruy._

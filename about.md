@@ -36,7 +36,5 @@
 
 **2019-2020 :** Tutorat en mathématiques en L1 au DLST de Grenoble.
 
-
-<br>
-<br>
 <center> <a href="https://pierreloisel.github.io/" target="_blank">Accueil</a> </center>
+<hr>

@@ -35,3 +35,8 @@
 **2021 :** Tutorat en algèbre en L3 mathématiques à l'Institut Fourier.
 
 **2019-2020 :** Tutorat en mathématiques en L1 au DLST de Grenoble.
+
+<br>
+<br>
+<br>
+<center> <a href="https://pierreloisel.github.io/" target="_blank">Accueil</a> </center>

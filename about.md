@@ -19,7 +19,7 @@
 
 # Stages
 
-**2021 :** Stage de recherche de trois mois en géométrie algébrique "Droites triples des hypersurfaces cubiques de \\( \mathbb{P}^4( \mathbb{C} ) \\) et courbes de Murre".
+**2021 :** Stage de recherche de trois mois en géométrie algébrique "Droites triples des hypersurfaces cubiques lisses de \\( \mathbb{P}^4( \mathbb{C} ) \\)".
 <br>_Effectué au LMA de Poitiers, sous la direction de Samuel Boissière et de Grâce Bockondas._
 <br>_Manuscrit disponible <a href="https://pierreloisel.github.io/folder_pdf/stage_LMA_2021.pdf" target="_blank">en cliquant ici</a>._
 
@@ -28,7 +28,7 @@
 <br>_Manuscrit disponible <a href="https://pierreloisel.github.io/folder_pdf/memoire_master_2021.pdf" target="_blank">en cliquant ici</a>._
 
 **2019 :** Stage de recherche "Sur la simplicité de certains groupes classiques".
-<br>_Effectué en plus de mes études à l'Institu Fourier, sous la direction de Grégory Behruy._
+<br>_Effectué en plus de mes études à l'Institut Fourier, sous la direction de Grégory Behruy._
 
 # Enseignements
 

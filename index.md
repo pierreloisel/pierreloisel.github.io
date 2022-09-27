@@ -1,4 +1,4 @@
-Agrégé de mathématiques, je suis actuellement étudiant au M2 d'algèbre appliquée de Versailles. Mes intérêts portent sur la cryptographie et sur l'utilisation de l'outil informatique afin de pouvoir traiter de problèmes de la géométrie algébrique.
+Agrégé de mathématiques, je suis actuellement étudiant au M2 d'algèbre appliquée de Versailles. Mes intérêts portent pour l'instant sur la cryptographie et le calcul formel.
 <br>
 <br>
 Vous pouvez me contacter à l'adresse suivante, en remplaçant les _(point)_ et les _(at)_ par ce qu'il faut : pierre _(point)_ loisel38 _(at)_ gmail _(point)_ com.

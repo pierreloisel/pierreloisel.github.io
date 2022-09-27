@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: Pierre Loisel
-description: Page personnel regroupant les différents documents que j'ai créé.
+description: Page personnelle.
 markdown: kramdown
 kramdown:
     math_engine: katex
